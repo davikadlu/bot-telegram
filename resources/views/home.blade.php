@@ -17,8 +17,8 @@
 
     </div>
     <button class="border-2 border-gray-400 w-20 rounded-md h-9 ml-60 mt-1">Login</button>
-    <button class="bg-red-400 w-30 rounded-md h-9 ml-2 mt-1">
-      <a href="#" class="text-white font-bold">Cadastre-se</a>
+    <button class="bg-green-400 w-30 rounded-md h-9 ml-2 mt-1">
+      <a href="#" class="text-white font-bold">Entre</a>
     </button>
   </div>
 
